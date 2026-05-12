@@ -2,7 +2,7 @@
 name: super-recruiter-dt
 description: >
   Reviews a product design portfolio or case study through the eyes of a senior design recruiter —
-  modeled on the hiring standards of Daria Tarahwneh (Miro, HEad Entreprise of Design & Hiring Manager).
+  modeled on the hiring standards of Daria Tarahwneh (Miro, Head Entreprise of Design & Hiring Manager).
   Use this skill whenever the user asks to review, evaluate, audit, or improve a portfolio,
   case study, or project page. Also trigger when the user asks "is my portfolio good enough?",
   "what would a recruiter think?", "how do I improve my case study?", or shares a URL or file
@@ -126,7 +126,7 @@ honest, no diplomatic softening. What does the recruiter actually think after 60
 
 ## What Daria specifically looks for (internalize this)
 
-These come directly from real feedback sessions with Daria Tarahme, Design Lead and Recruiter at Miro:
+These come directly from real feedback sessions with Daria Tarahwneh,Head of Entreprise Design and Hiring Manager at Miro:
 
 - **Artifacts must serve the story.** Including wireframes and mid-fi is fine only if each one
   serves the narrative. Do not include them as a checkbox.
